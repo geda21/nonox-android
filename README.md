@@ -18,6 +18,7 @@ NONOX is an anti-distraction productivity system that **forces you to focus**. B
   <img src="screenshots/task.png" width="200" alt="Create Task"/>
   <img src="screenshots/block.png" width="200" alt="Block Apps"/>
   <img src="screenshots/lock.png" width="200" alt="Phone Lock"/>
+  <img src="screenshots/Settings.png" width="200" alt="Settings"/>
 </p>
 
 ---
