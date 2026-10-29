@@ -105,7 +105,7 @@ no laptop, no desktop, no team. 420+ hours of development. One codebase.
 
 ## 🧠 About the Developer
 
-**Geda Taye** — 22-year-old self-taught Android developer from **Harar, Ethiopia**.
+**Geda Taye** — 20-year-old self-taught Android developer from **Harar, Ethiopia**.
 
 - Built NONOX entirely on a smartphone
 - 8,500+ lines of Java
