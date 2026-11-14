@@ -31,6 +31,28 @@
 
 Some modes require Accessibility Service and Device Administrator permissions. Behavior varies by Android version, device manufacturer and enabled permissions.
 
+## Recognition & founder coverage
+
+### 3rd place — SaaS Hive July 2026 Launch Sprint
+
+[![NONOX third place in SaaS Hive July 2026 Launch Sprint](assets/nonox-saashive-launch-sprint-recognition.svg)](https://saashive.com/monthly-launch-sprint/past)
+
+NONOX by **Geda Taye** placed **3rd among 52 participating founders** in SaaS Hive's **July 2026 Launch Sprint**. This placement is recorded in the platform's official past-winners archive.
+
+**[View the official SaaS Hive winners archive](https://saashive.com/monthly-launch-sprint/past)**
+
+### Featured founder interview — August 13, 2026
+
+[![SaaS Hive Founder Spotlight featuring Geda Taye and NONOX](assets/nonox-saashive-founder-spotlight.svg)](https://blog.saashive.com/post/coding-420-hours-on-a-6-inch-phone-in-a-room-with-flickering-electricity-to-build-a-focus-app)
+
+SaaS Hive published a **Founder Spotlight interview** about the journey of building NONOX entirely on a **six-inch Android smartphone**, including roughly **420 hours of coding** and the difficulties of developing without a laptop or team.
+
+**[Read the original SaaS Hive founder interview](https://blog.saashive.com/post/coding-420-hours-on-a-6-inch-phone-in-a-room-with-flickering-electricity-to-build-a-focus-app)**
+
+*The graphics above are original editorial illustrations summarizing independently verifiable recognition. They are not an official SaaS Hive certificate or award graphic.*
+
+---
+
 ## Inside NONOX — Real Screenshots
 
 All six screenshots below already existed in this repository. The original **`screenshots/` assets are preserved**.
