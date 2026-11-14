@@ -1,8 +1,12 @@
 <div align="center">
 
+<img src="assets/nonox-real-icon.png" alt="Official NONOX purple app icon" width="128" />
+
 # NONOX — Focus & Discipline for Android
 
 **Block distractions. Commit to your goals.**
+
+<img src="assets/nonox-real-ui-showcase.png" alt="NONOX premium showcase featuring real Android interface screenshots" width="100%" />
 
 [![Get it on Google Play](https://img.shields.io/badge/GET_IT_ON-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.nonox.app)
 [![Android](https://img.shields.io/badge/Android-Native_Java-156D50?style=for-the-badge&logo=android)](https://github.com/geda21/nonox-android)
@@ -27,7 +31,7 @@
 
 Some modes require Accessibility Service and Device Administrator permissions. Behavior varies by Android version, device manufacturer and enabled permissions.
 
-## Real NONOX screenshots
+## Inside NONOX — Real Screenshots
 
 All six screenshots below already existed in this repository. The original **`screenshots/` assets are preserved**.
 
