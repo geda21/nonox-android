@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title description">
+<title id="title">NONOX, third place in SaaS Hive July 2026 Launch Sprint</title><desc id="description">Source-backed recognition display: NONOX by Geda Taye placed third among 52 founders. Source: SaaS Hive past winners archive.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0E0923"/><stop offset=".55" stop-color="#251148"/><stop offset="1" stop-color="#100E24"/></linearGradient><linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E8D4A0"/><stop offset=".55" stop-color="#BC8F51"/><stop offset="1" stop-color="#F2DDB0"/></linearGradient><linearGradient id="purple" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A76BFF"/><stop offset="1" stop-color="#6446DB"/></linearGradient></defs>
+<rect width="1200" height="460" rx="28" fill="url(#bg)"/><circle cx="1055" cy="85" r="230" fill="#7130D5" opacity=".14"/><circle cx="120" cy="430" r="180" fill="#6434BB" opacity=".14"/>
+<rect x="36" y="35" width="1128" height="390" rx="24" stroke="#8764E6" stroke-width="2" fill="none"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="78" y="95" font-size="22" letter-spacing="4" font-weight="bold" fill="#C4A8FF">INDEPENDENT PRODUCT RECOGNITION</text>
+<text x="76" y="166" font-size="55" font-weight="bold" fill="#FFF">NONOX <tspan fill="#C9B3FF">× SaaS Hive</tspan></text>
+<text x="78" y="224" font-size="30" font-weight="bold" fill="#F0D9A5">July 2026 Launch Sprint</text>
+<text x="78" y="269" font-size="25" fill="#D1C7EE">3rd place among 52 participating founders</text>
+<text x="78" y="321" font-size="22" fill="#AFA1CC">NONOX by Geda Taye · Ethiopia</text>
+<text x="78" y="384" font-size="17" fill="#A89DC5">Source: saashive.com/monthly-launch-sprint/past</text>
+</g>
+<g transform="translate(918 120)">
+<circle cx="100" cy="100" r="99" fill="#241632" stroke="url(#metal)" stroke-width="10"/>
+<circle cx="100" cy="100" r="78" fill="none" stroke="#D9B976" stroke-opacity=".35" stroke-width="2"/>
+<path d="M54 16L16 -36L84 -36L106 20M146 16L184 -36L116 -36L94 20" fill="url(#purple)" opacity=".8"/>
+<text x="100" y="119" text-anchor="middle" font-family="Arial,sans-serif" font-size="80" font-weight="900" fill="url(#metal)">3</text>
+<text x="100" y="157" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="bold" fill="#EFD6A0">PLACE</text>
+</g></svg>
